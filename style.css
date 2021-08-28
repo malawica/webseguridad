@@ -206,7 +206,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items: stretch;
+    align-items: center;
     margin-top: 2rem;
   }
   
@@ -214,7 +214,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items: stretch;
+    align-items:  center;
     margin: 0;
   }
   
